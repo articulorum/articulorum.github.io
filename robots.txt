@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Allow: /refs/heads/main/
 
-Sitemap: https://articulorum.com/refs/heads/main/master_index.xml
+Sitemap: https://articulorum.github.io/sitemap.xml
